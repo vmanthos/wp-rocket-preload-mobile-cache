@@ -1,6 +1,6 @@
 # WP Rocket | Preload mobile cache
 
-By default, WP Rocket will preload the cache for desktops. Using this helper plugin the mobile cache will be preloaded instead.
+By default, WP Rocket will preload cache for desktops. Using this helper plugin the mobile cache will be preloaded instead.
 
 The following features have to be enabled for this plugin to work:
 * Mobile cache
